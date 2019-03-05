@@ -1,4 +1,4 @@
-# :wrench: MenloHacks-Workshop
+# :wrench: MenloHacks Workshop :hammer:
 
 This is the repo for the Django to-do-list app Workshop in MenloHacks 2019 on Saturday March 9th.
 It gives the overview about how to set up a simple Django project. This workshop is beginners-friendly.
