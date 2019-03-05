@@ -12,7 +12,7 @@ It gives the overview about how to set up a simple Django project. This workshop
 ### Step 4 - Installing packages with requirements
 
 
-### Credits
+## Credits
 
 #### Bruce Lin
 #### Tim Roesner(https://github.com/timroesner)
