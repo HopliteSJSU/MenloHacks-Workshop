@@ -15,5 +15,5 @@ It gives the overview about how to set up a simple Django project. This workshop
 ## Credits
 
 #### Bruce Lin
-#### Tim Roesner
+#### Tim Roesner(https://github.com/timroesner)
 
