@@ -5,12 +5,24 @@ It gives the overview about how to set up a simple Django project. This workshop
 
 ### Step 1 - What is Django?
 
-### Step 2 - Django installation
 
-### Step 3 - Django installation
+### Step 2 - Django Installation
 
-### Step 4 - Installing packages with requirements
+Check your Python Installation
+`$ python --version`
+`$ python3 --version`
 
+### Step 3 - Django Installation
+`$ pip install Django`
+
+Check your Django Installation
+`>>> import django`
+`>>> print(django.get_version())`
+
+### Step 3 - Access to the Folder
+
+### Step 4 - Installing packages with Requirements
+`pip install -r requirements.txt`
 
 ## Credits
 
