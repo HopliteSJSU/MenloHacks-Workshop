@@ -31,6 +31,6 @@ Check your Django Installation<br>
 
 ## Credits
 
-#### Bruce Lin
-#### Tim Roesner(https://github.com/timroesner)
+#### Bruce Lin (https://github.com/brucelin1218)
+#### Tim Roesner (https://github.com/timroesner)
 
