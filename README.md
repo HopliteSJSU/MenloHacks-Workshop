@@ -20,6 +20,8 @@ It gives the overview about how to set up a simple Django project. This workshop
 `$ pip install Django`
 
 Check your Django Installation<br>
+Access Python by:`$ python` or `python3`
+Then<br>
 `>>> import django`<br>
 `>>> print(django.get_version())`<br>
 
