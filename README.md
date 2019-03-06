@@ -10,14 +10,14 @@ It gives the overview about how to set up a simple Django project. This workshop
 
 ### Step 2 - Django Installation
 
-Check your Python Installation
+Check your Python Installation<br>
 `$ python --version`<br>
 `$ python3 --version`<br>
 
 ### Step 3 - Django Installation
 `$ pip install Django`
 
-Check your Django Installation
+Check your Django Installation<br>
 `>>> import django`<br>
 `>>> print(django.get_version())`<br>
 
