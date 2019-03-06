@@ -19,8 +19,8 @@ It gives the overview about how to set up a simple Django project. This workshop
 ### Step 3 - Django Installation
 `$ pip install Django`
 
-Check your Django Installation<br>
-Access Python by:`$ python` or `python3`
+Check your Django Installation<br><br>
+Access Python by:`$ python` or `python3`<br>
 Then<br>
 `>>> import django`<br>
 `>>> print(django.get_version())`<br>
