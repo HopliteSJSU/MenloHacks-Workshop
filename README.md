@@ -58,6 +58,9 @@ django-to-do-list
 ### Step 6 - Usage
 `python3 manage.py runserver`
 
+#### Go to
+`http://localhost:8000`
+
 ## Credits
 
 #### Bruce Lin (https://github.com/brucelin1218)
