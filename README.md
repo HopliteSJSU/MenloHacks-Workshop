@@ -36,7 +36,8 @@ Access Python by:`$ python` or `$ python3`. Then:<br>
 ### Step 5 - Access to the Folder
 `cd django-to-do-list`<br>
 #### Folder hierarchy<br>
-`django-to-do-list
+```
+django-to-do-list
 ├───db.sqlite3
 ├───manage.py
 ├───todo_app (back-end)
@@ -51,7 +52,8 @@ Access Python by:`$ python` or `$ python3`. Then:<br>
 │        wsgi.py
 │        __init__.py
 │        .....
-└───README.md`
+└───README.md
+```
 
 ### Step 6 - Usage
 `python3 manage.py runserver`
