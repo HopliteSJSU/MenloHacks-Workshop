@@ -32,9 +32,8 @@ Access Python by:`$ python` or `$ python3`. Then:<br>
 
 ### Step 3 - Access to the Folder
 
-### Step 4 - Installing packages with Requirements
-`pip install -r requirements.txt`
-
+### Step 4 - Usage
+`python3 manage.py runserver`
 
 ## Credits
 
