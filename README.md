@@ -9,15 +9,21 @@ It gives the overview about how to set up a simple Django project. This workshop
 * Django (Open Source Web Application Framework)
 * Git (Open Source Distributed Version Control System)
 
-### Step 1 - Check Python Installation<br>
-`$ python --version`<br>
+### Step 1 - Check Python Installation<br/>
 `$ python3 --version`
 
 ### Step 2 - Check pip Installation<br>
-`$ pip --version`
+`$ pip3 --version`
+
+  #### If pip not installed
+  **macOS**:  
+  `$ brew install python`  
+  <br />
+  **Windows**:  
+  [Download here](https://www.python.org/downloads/release/python-372/)
 
 ### Step 3 - Django Installation
-`$ pip install Django`
+`$ pip3 install Django`
 
 Check your Django Installation<br><br>
 Access Python by:`$ python` or `$ python3`. Then:<br>
