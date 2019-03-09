@@ -20,27 +20,21 @@ def home(request):
         return render(request, 'index.html', {'all_items': all_items})
 
 def about(request):
-    context = {'first_name': 'Jas', 'last_name': 'Dosanjh'}
     return render(request, 'about.html', context)
 
 def delete(request, list_id):
         item = List.objects.get(pk=list_id)
-        item.delete()
-        messages.success(request, ('The todo has been deleted!'))
+        # Your code here
         return redirect('index')
 
 def completed(request, list_id):
         item = List.objects.get(pk=list_id)
-        item.completed = True
-        item.save()
-        messages.success(request, ('Woohoo!'))
+        # Your code here
         return redirect('index')
 
 def not_complete(request, list_id):
         item = List.objects.get(pk=list_id)
-        item.completed = False
-        item.save()
-        messages.success(request, (':('))
+        # Your code here
         return redirect('index')
 
 def edit(request, list_id):
