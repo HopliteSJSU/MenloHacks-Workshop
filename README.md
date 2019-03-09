@@ -69,7 +69,8 @@ django-to-do-list
 * `Password (again)`
 
 ### Step 8 - Check the Admin URL
-#### Go to `http://localhost:8000/admin`
+#### Go to 
+`http://localhost:8000/admin`
 
 ## Credits
 
