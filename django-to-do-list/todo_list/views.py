@@ -20,7 +20,7 @@ def home(request):
         return render(request, 'index.html', {'all_items': all_items})
 
 def about(request):
-    return render(request, 'about.html', context)
+    return render(request, 'about.html')
 
 def delete(request, list_id):
         item = List.objects.get(pk=list_id)
