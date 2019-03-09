@@ -61,6 +61,16 @@ django-to-do-list
 #### Go to
 `http://localhost:8000`
 
+### Step 7 - Create a Superuser
+`python3 manage.py createsuperuser`
+#### Enter your
+* `Username`
+* `Password`
+* `Password (again)`
+
+### Step 8 - Check the Admin URL
+#### Go to `http://localhost:8000/admin`
+
 ## Credits
 
 #### Bruce Lin (https://github.com/brucelin1218)
